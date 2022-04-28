@@ -1,6 +1,9 @@
-- 👋 Hey guys.. I’m Sayoni
-- 👀 I’m interested in Android app development
-- 🌱 I’m currently learning JAVA
+- 👋 Hey guys.. Myself Sayoni
+- B.tech ECE 3rd year Student At @Techno_India
+- 👀 I’m interested in Web Application development 
+- 🌱 I’m currently working on Full Stack development
+- 😴 I have knowledge about IOT projects
+- 🔥JAVA Programer🔥
 - 📫 How to reach me ✅ Instagram ✅ Facebook ✅ LinkedIn
 
 <!---
