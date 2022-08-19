@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Application development 
 - 🌱 I’m currently working on Full Stack development
 - 😴 I have knowledge about IOT projects
-- 🔥JAVA Programer🔥
+- 🔥JAVA🔥
 - 📫 How to reach me ✅ Instagram ✅ Facebook ✅ LinkedIn
 
 <!---
